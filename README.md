@@ -1,13 +1,16 @@
 <div align="center">
-
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey,+I%27m+Shreya!" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CS+%40+UWaterloo;IBDP+Alumni" alt="Typing SVG" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey%2C+I%27m+Shreya!">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey%2C+I%27m+Shreya!">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey,+I%27m+Shreya!" alt="name" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=CS+%40+UWaterloo;IBDP+Alumni">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CS+%40+UWaterloo;IBDP+Alumni">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CS+%40+UWaterloo;IBDP+Alumni" alt="Typing SVG" />
+</picture>
 <br/>
-
 </div>
 
 - 💻 software engineer intern @ <a href="https://eonmedia.ai/">Eon Media</a>
