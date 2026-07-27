@@ -1,39 +1,34 @@
 <div align="center">
 
-<h3><i>hey there! i'm</i></h3>
+<br/>
 
-# { Shreya }
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=FF6FA5&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EF%BD%A1+%E2%82%8A%C2%B0%CD%BA+Hey!+I%27m+Shreya+%CD%BB%C2%B0%E2%82%8A+%EF%BD%A1" alt="name" />
 
-<a href="https://cs.uwaterloo.ca/"><b>CS @ UWaterloo</b></a> · <a href="https://ibo.org/"><b>IBDP Alumni</b></a>
-
-Software Engineer Intern @ <a href="https://eonmedia.ai/">Eon Media</a>
-
-</div>
-
-- 🚀 organized <a href="https://hackthe6ix.com/">@Hackthe6ix</a> 2025 — Toronto's largest summer hackathon
-- 💻 learning and building tech
-- 🤝 open to working / hackathons / contributing to projects
-- ⚙️ engineer @ <a href="https://watai.ca/">WAT.ai</a>, <a href="https://bindwell.ai/">Bindwell (YC W25)</a>, and <a href="https://uwaterloopm.ca/">UWPM Club</a>
-- 💜 I love Ube anything 😋
-
-<div align="center">
-
-📍 Toronto, ON
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shreya2338&label=Profile%20Views&color=1e3a5f&style=for-the-badge" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreya2338&show_icons=true&theme=dark&hide_border=true&bg_color=0d1b2a&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya2338&theme=dark&hide_border=true&background=0d1b2a&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6FA5&center=true&vCenter=true&width=500&lines=CS+%40+UWaterloo;IBDP+Alumni" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya2338&theme=react-dark&bg_color=0d1b2a&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="98%" />
+</div>
+
+- 💻 software engineer intern @ <a href="https://eonmedia.ai/">Eon Media</a>
+- 🔧 engineer @ <a href="https://watai.ca/">WAT.ai</a>, <a href="https://bindwell.ai/">Bindwell (YC W25)</a>, and <a href="https://uwaterloopm.ca/">UWPM Club</a>
+- 🚀 organized <a href="https://hackthe6ix.com/">@Hackthe6ix</a> 2025 — Toronto's largest summer hackathon
+- 📚 learning and building tech
+- 🤝 open to working / hackathons / contributing to projects
+- 💜 I love Ube anything 😋
+
+<div align="right">
+
+📍 Toronto, ON
+
+<a href="https://www.linkedin.com/in/shreya-sharma-821826321"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6FA5"></a>
+<img src="https://komarev.com/ghpvc/?username=shreya2338&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreya2338&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6fa5&icon_color=ff6fa5&text_color=ff9ecb" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya2338&theme=dark&hide_border=true&background=000000&stroke=ff6fa5&ring=ff6fa5&fire=ff6fa5&currStreakLabel=ff9ecb" width="48%" />
 
 </div>
