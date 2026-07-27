@@ -12,9 +12,8 @@
 
 - 💻 software engineer intern @ <a href="https://eonmedia.ai/">Eon Media</a>
 - 🔧 engineer @ <a href="https://watai.ca/">WAT.ai</a>, <a href="https://bindwell.ai/">Bindwell (YC W25)</a>, and <a href="https://uwaterloopm.ca/">UWPM Club</a>
-- 🚀 organized <a href="https://hackthe6ix.com/">@Hackthe6ix</a> 2025 — Toronto's largest summer hackathon
-- 📚 learning and building tech
-- 🤝 open to working / hackathons / contributing to projects
+- 🚀 organized <a href="https://hackthe6ix.com/">@Hackthe6ix</a> 2025 — Toronto's largest summer hackathon!
+- 📚 learning and building tech. I'm open to working / hackathons / contributing to projects :)
 - 💜 I love Ube anything 😋
 
 <div align="right">
@@ -29,6 +28,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreya2338&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6fa5&icon_color=ff6fa5&text_color=ff9ecb" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya2338&theme=dark&hide_border=true&background=000000&stroke=ff6fa5&ring=ff6fa5&fire=ff6fa5&currStreakLabel=ff9ecb" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=shreya2338&theme=dark&hide_border=true&background=000000&stroke=ff6fa5&ring=ff6fa5&fire=ff6fa5&currStreakLabel=ff9ecb" width="48%" />
 
 </div>
