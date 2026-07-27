@@ -14,7 +14,7 @@
 </div>
 
 - 💻 software engineer intern @ <a href="https://eonmedia.ai/">Eon Media</a>
-- 🔧 engineer @ <a href="https://watai.ca/">WAT.ai</a>, <a href="https://bindwell.ai/">Bindwell (YC W25)</a>, and <a href="https://uwaterloopm.ca/">UWPM Club</a>
+- 🔧 engineer @ <a href="https://watai.ca/">WAT.ai</a> x <a href="https://bindwell.ai/">Bindwell (YC W25)</a>, and <a href="https://uwaterloopm.ca/">UWPM Club</a>
 - 🚀 organized <a href="https://hackthe6ix.com/">@Hackthe6ix</a> 2025 -- Toronto's largest summer hackathon!
 - 📚 learning and building tech. I'm open to work / hackathons / contributing to projects :)
 - 💜 I love ube anything :3
