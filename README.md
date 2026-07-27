@@ -28,9 +28,7 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreya2338&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff6fa5&icon_color=ff6fa5&text_color=ff9ecb" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=shreya2338&theme=dark&hide_border=true&background=000000&stroke=ff6fa5&ring=ff6fa5&fire=ff6fa5&currStreakLabel=ff9ecb" width="48%" />
-
+<div style="text-align: center;" align="center">
+    <img src="https://streak-stats.demolab.com/?user=shreya2338&background=000000&border=000000&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF1493&hide_border=true" alt="mystreak">
+    <br/>
 </div>
