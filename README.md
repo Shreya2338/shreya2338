@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EF%BD%A1+%E2%82%8A%C2%B0%CD%BA+Hey!+I%27m+Shreya+%CD%BB%C2%B0%E2%82%8A+%EF%BD%A1" alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=42&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey,+I%27m+Shreya!" alt="name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=CS+%40+UWaterloo;IBDP+Alumni" alt="Typing SVG" />
 
