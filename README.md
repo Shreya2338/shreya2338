@@ -1,8 +1,6 @@
 <div align="center">
 <br/>
 <h2><strong>Hi, I'm Shreya!</strong></h2>
-<br/>
-<br/>
 </div>
 
 - 🎓 Computer Science Student @UWaterloo, IBDP Alumni '25
