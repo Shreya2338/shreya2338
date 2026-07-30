@@ -19,7 +19,3 @@
 
 </div>
 
-<div style="text-align: center;" align="center">
-    <img src="https://streak-stats.demolab.com/?user=shreya2338&background=000000&border=000000&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=FF1493&hide_border=true" alt="mystreak">
-    <br/>
-</div>
