@@ -3,7 +3,7 @@
 <h2><strong>Hi, I'm Shreya!</strong></h2>
 </div>
 
-- 🎓 2A computer Science student <a href="https://uwaterloo.ca/">@UWaterloo</a>, <a href="https://ibo.org/programmes/diploma-programme/">IBDP</a> alumni '25
+- 🎓 2A computer science student <a href="https://uwaterloo.ca/">@UWaterloo</a>, <a href="https://ibo.org/programmes/diploma-programme/">IBDP</a> alumni '25
 - 💻 software engineer intern @ <a href="https://eonmedia.ai/">Eon Media</a>
 - 🔧 engineer @ <a href="https://watai.ca/">WAT.ai</a> x <a href="https://bindwell.ai/">Bindwell (YC W25)</a>, and <a href="https://uwaterloopm.ca/">UWPM Club</a>
 - 🚀 organized <a href="https://hackthe6ix.com/">@Hackthe6ix</a> 2025 -- Toronto's largest summer hackathon!
