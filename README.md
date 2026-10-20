@@ -12,10 +12,13 @@
 
 <div align="right">
 
-📍 Toronto, ON
+<a href="https://www.linkedin.com/in/shreya-sharma-821826321/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
 
-<a href="https://www.linkedin.com/in/shreya-sharma-821826321"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6FA5"></a>
-<img src="https://komarev.com/ghpvc/?username=shreya2338&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views"/>
+<div style="text-align: center;" align="right">
+  <img src="https://komarev.com/ghpvc/?username=shreya2338&label=Profile%20views&color=000000&style=flat" alt="shreya2338" />
+</div>
 
 </div>
 
