@@ -17,7 +17,7 @@
     </a>
 
 <div style="text-align: center;" align="right">
-  <img src="https://komarev.com/ghpvc/?username=shreya2338&label=Profile%20views&color=000000&style=flat" alt="shreya2338" />
+  <img src="https://komarev.com/ghpvc/?username=Shreya2338&label=Profile%20views&color=000000&style=flat" alt="Profile Views" />
 </div>
 
 </div>
