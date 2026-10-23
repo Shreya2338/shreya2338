@@ -20,10 +20,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shreya2338&label=Profile%20views&color=000000&style=flat" alt="Profile Views" />
 
-<br/>
-
-<a href="https://gitviewsmap.onrender.com/Shreya2338">
-  <img src="https://gitviewsmap.onrender.com/badge/Shreya2338.svg" alt="GitHub Visitor Map" />
-</a>
-
 </div>
