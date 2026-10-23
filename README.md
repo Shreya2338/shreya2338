@@ -13,12 +13,17 @@
 <div align="right">
 
 <a href="https://www.linkedin.com/in/shreya-sharma-821826321/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<div style="text-align: center;" align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shreya2338&label=Profile%20views&color=000000&style=flat" alt="Profile Views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shreya2338&label=Profile%20views&color=000000&style=flat" alt="Profile Views" />
+
+<br/>
+
+<a href="https://gitviewsmap.onrender.com/Shreya2338">
+  <img src="https://gitviewsmap.onrender.com/badge/Shreya2338.svg" alt="GitHub Visitor Map" />
+</a>
+
 </div>
-
-</div>
-
